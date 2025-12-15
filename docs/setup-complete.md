@@ -82,7 +82,7 @@ sidebar_label: '搭建完成篇'
 ![描述](/img/GJMXM.png)
 
 - 然后在酒馆
-![描述](/img/shiyonggj.png)
+![描述](/img/shiyongGJ.png)
 - 硅基流动的URL
 ```
 https://api.siliconflow.cn/v1
