@@ -1,0 +1,9 @@
+{
+  "label": "使用教程",
+  "position": 4,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "SillyTavern 蠢酒馆使用教程"
+  }
+}
