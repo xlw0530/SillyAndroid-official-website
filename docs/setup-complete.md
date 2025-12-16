@@ -10,37 +10,7 @@ sidebar_label: '搭建完成篇'
 
 ---
 
-## 第一步：导入预设和正则
-
-- 点击顶部栏第一个按钮，也就是最左边的按钮
-
-![描述](/img/daoruyushe.png)
-
-- 没有预设嘛？去群里找大佬们要一份，或者去各种论坛找，作者正在努力学习写预设！
-
-- 预设安装好了？继续下一步！
-
-:::tip 📂 QQ文件在哪里？
-- 手机路径：`Android/data/com.tencent.mobileqq/Tencent/QQfile_recv`
-- 或者: `Download/QQ`
-在这里就可以找到自己下载的文件了
-:::
-
----
-
-### 导入正则
-
-![描述](/img/zhengzedaoru.png)
-![描述](/img/zhengzedaoruqvanjv.png)
-
-:::warning ⚠️ 重要
-- 正则一定要和预设配套！
-- 现在大部分预设内嵌正则既导入预设自动导入正则，如需额外操作在你找到预设的地方查看。
-:::
-
----
-
-## 第二步：配置 API
+## 第一步：配置 API
 
 :::warning 📱 小提示
 - 如果你是第一次部署酒馆，你可能不知道的是酒馆的api **几乎都是付费的**哦！
@@ -89,6 +59,38 @@ https://api.siliconflow.cn/v1
 ```
 
 
+
+---
+
+
+
+## 第二步：导入预设和正则
+
+- 点击顶部栏第一个按钮，也就是最左边的按钮
+
+![描述](/img/daoruyushe.png)
+
+- 没有预设嘛？去群里找大佬们要一份，或者去各种论坛找，作者正在努力学习写预设！
+
+- 预设安装好了？继续下一步！
+
+:::tip 📂 QQ文件在哪里？
+- 手机路径：`Android/data/com.tencent.mobileqq/Tencent/QQfile_recv`
+- 或者: `Download/QQ`
+在这里就可以找到自己下载的文件了
+:::
+
+---
+
+### 导入正则
+
+![描述](/img/zhengzedaoru.png)
+![描述](/img/zhengzedaoruqvanjv.png)
+
+:::warning ⚠️ 重要
+- 正则一定要和预设配套！
+- 现在大部分预设内嵌正则既导入预设自动导入正则，如需额外操作在你找到预设的地方查看。
+:::
 
 ---
 
