@@ -68,8 +68,12 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '快速开始',
-                to: '/docs/intro',
+                label: '下载',
+                to: '/docs/download',
+              },
+              {
+                label: '酒馆教程',
+                to: '/docs/setup-complete',
               },
             ],
           },
